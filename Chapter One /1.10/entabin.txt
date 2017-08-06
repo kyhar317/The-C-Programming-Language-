@@ -1,0 +1,7 @@
+This is a test for the entab function. It replaces blanks with the correct number of tabs.
+
+Test input:
+
+There will be 16 blank spaces to follow:                -this should be replaced by two tabs. Following this line there will be 17 blank spaces:                 - this should be repalced by two tabs and one space. 
+Following this line of input there will be 12 blank spaces:            It should be repalaced by 1 tab and 4 blanks.
+Following this line there will be 7 blank spaces:       - this shouldn't be modified.  

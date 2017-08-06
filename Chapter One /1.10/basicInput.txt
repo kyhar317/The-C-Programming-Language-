@@ -1,0 +1,1 @@
+This is basic input	including tabs. Hopefully	this can be inputted into the program via a pipeline and all my worries will be solved. This is for the 	detab program but lets see if it works. 
